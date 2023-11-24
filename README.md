@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=랜덤&animation=blinking&fontSize=50)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=header&text=Welcome%20to%my%github&animation=blinking&fontSize=30)
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/any_text-you_like-blue?style=for-the-badge&logo=react"/></a> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeith17&show_icons=true&theme=rose)
 <!--
