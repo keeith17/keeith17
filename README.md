@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/any_text-you_like-blue/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/any_text-you_like-blue"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeith17&show_icons=true&theme=rose)
 <!--
 **keeith17/keeith17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
